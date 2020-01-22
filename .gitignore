@@ -1,0 +1,7 @@
+*.pyc
+resnet*
+*.xml
+*.iml
+*.jpg
+*.pth
+*.txt
